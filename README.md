@@ -1,0 +1,1 @@
+Swig c# test with cmake build.
